@@ -1,2 +1,11 @@
-|a| i| u| e| o |ka |ki |ku |ke |ko|
-|あ　い　う　え　お　か　き　く　け　こ|
+a あ
+i い
+u う
+e え
+o お
+ 
+ka か
+ki き
+ku く
+ke け
+ko こ
